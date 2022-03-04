@@ -1,0 +1,67 @@
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.exe
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.deps.json
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.runtimeconfig.json
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.runtimeconfig.dev.json
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.AssemblyInfoInputs.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.AssemblyInfo.cs
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\staticwebassets\Api Crud .NetCore Pessoa.StaticWebAssets.Manifest.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\staticwebassets\Api Crud .NetCore Pessoa.StaticWebAssets.xml
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api Crud .NetCore Pessoa.styles.css
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.RazorTargetAssemblyInfo.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.genruntimeconfig.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.csproj.CopyComplete
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.csproj.AssemblyReference.cache
+C:\Users\jorni\source\repos\Api Crud .NetCore Pessoa\Api Crud .NetCore Pessoa\obj\Debug\netcoreapp3.1\Api Crud .NetCore Pessoa.GeneratedMSBuildEditorConfig.editorconfig
